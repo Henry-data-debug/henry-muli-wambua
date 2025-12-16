@@ -1,0 +1,5 @@
+{
+  "name": "StockFlow AI",
+  "description": "A smart inventory management system for tracking daily operations, stock levels, and generating AI-powered business reports.",
+  "requestFramePermissions": []
+}
